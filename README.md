@@ -108,15 +108,6 @@ Damit wird entschieden, ob ein Gegenstand ausgeliehen wird.
 Dieser Ablauf bildet die zentrale Interaktion zwischen Verleihern und Leihenden ab und zeigt die vollständige Kernlogik der Plattform.
 
 
-**Happy Path (User Flow):**
-
-Ein Nutzer startet auf der Landing Page, sucht nach einem Gegenstand und wählt ein Item aus.  
-Auf der Detailseite stellt er eine Anfrage.  
-Der Verleiher sieht diese Anfrage und akzeptiert sie.  
-Der Gegenstand wird ausgeliehen.
-
-
-Dieser Ablauf zeigt die zentrale Interaktion zwischen Verleihern und Leihenden innerhalb der Plattform.
 
 
 ## 4. AI Directory (Generative AI Use Policy)
