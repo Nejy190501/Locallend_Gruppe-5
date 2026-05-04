@@ -3,17 +3,17 @@
 ## 1. Team Composition
 *   **Team Name:** Group 5 - LocalLend
 *   **Repository Access:** Unser GitHub-Repository ist auf "public" gestellt und die Dokumentation ist über GitHub Pages erreichbar.
-*   **Contributors & Meta-Goals****:**
-    *   **Tuba**
+*   **Contributors & Meta-Goals**
+    *   **Tuba Celik (Matrikelnummer: 77206594559)**
         *   *Target Grade:* 1.0
         *   *Personal Goal:* Das Flask-Routing richtig verstehen und das Backend für die Ausleih-Funktion eigenständig zum Laufen bringen.
-    *   **Yves**
+    *   **Jean Yves Nkwane (Matrikelnummer: 77201393552)**
         *   *Target Grade:* 1.0
         *   *Personal Goal:* Ein sauberes Frontend mit HTML und Bootstrap bauen, komplett ohne verbotene JavaScript-Hacks.
-    *   **Wendy**
+    *   **Wendy Sharonia Lontsi Doumtsop (Matrikelnummer: 77209106458)**
         *   *Target Grade:* 1.0
         *   *Personal Goal:* Die SQLite-Datenbank logisch aufsetzen und sicherstellen, dass sie reibungslos mit Flask interagiert.
-    *   **Maryam**
+    *   **Maryam Joumma (Matrikelnummer: 77207472992)**
         *   *Target Grade:* 1.0
         *   *Personal Goal:* Den Git-Workflow strukturieren und dafür sorgen, dass unsere Pull Requests im Team ohne Konflikte funktionieren.
 
