@@ -92,6 +92,22 @@ Damit wird entschieden, ob ein Gegenstand ausgeliehen wird.
 
 </p>
 
+## Happy Path (User Flow)
+
+1. Ein Nutzer registriert sich und wählt die Rolle „Verleiher“.  
+2. Der Verleiher loggt sich ein und erstellt einen neuen Gegenstand.  
+3. Ein zweiter Nutzer registriert sich als „Leihender“ und loggt sich ein.  
+4. Der Leihende durchsucht die verfügbaren Gegenstände auf der Plattform.  
+5. Der Leihende öffnet die Detailansicht eines Gegenstands und stellt eine Anfrage.  
+6. Der Verleiher sieht die eingehende Anfrage in seinem Dashboard.  
+7. Der Verleiher akzeptiert die Anfrage.  
+8. Der Status des Gegenstands ändert sich von „verfügbar“ zu „ausgeliehen“.  
+9. Nach der Nutzung markiert der Leihende den Gegenstand als „zurückgegeben“.  
+10. Der Status des Gegenstands wird wieder auf „verfügbar“ gesetzt.
+11. 
+Dieser Ablauf bildet die zentrale Interaktion zwischen Verleihern und Leihenden ab und zeigt die vollständige Kernlogik der Plattform.
+
+
 **Happy Path (User Flow):**
 
 Ein Nutzer startet auf der Landing Page, sucht nach einem Gegenstand und wählt ein Item aus.  
