@@ -36,11 +36,11 @@ Um den Umfang unserer App visuell darzustellen, haben wir die wichtigsten Screen
 Die Startseite bietet eine Suchleiste sowie eine Übersicht über verfügbare Gegenstände.  
 Nutzer erhalten hier einen schnellen Einstieg und sehen direkt, was aktuell ausgeliehen werden kann.
 
-![Landing](docs/scribbles/landing.jpg)
+
 
 <p align="center">
   <img src="docs/scribbles/landing.jpg" width="500">
-</p>---
+</p>
 
 ### Scribble 2: Browse Items
 Auf dieser Seite können Nutzer alle Gegenstände durchsuchen.  
