@@ -20,7 +20,7 @@
 ## 2. Value Proposition
 Unsere App "LocalLend" ist eine klassische zweiseitige Plattform (Two-Sided Platform) für Tool-Sharing auf dem Campus und in der Nachbarschaft.
 
-*   **Target User & Problem:** Wir richten uns primär an Studierende und Anwohner. Das Problem: Für einmalige Projekte (z.B. Umzug, kleine Reparaturen) werden teure Werkzeuge benötigt (z.B. Schlagbohrmaschine)[cite: 6]. Ein Neukauf ist für Studierende zu teuer (Pain). Andere besitzen diese Dinge, lassen sie aber meist ungenutzt liegen, weil sie Angst haben, sie an Fremde zu verleihen und sie beschädigt zurückzubekommen (Pain).
+*   **Target User & Problem:** Wir richten uns primär an Studierende und Anwohner. Das Problem: Für einmalige Projekte (z.B. Umzug, kleine Reparaturen) werden teure Werkzeuge benötigt (z.B. Schlagbohrmaschine). Ein Neukauf ist für Studierende zu teuer (Pain). Andere besitzen diese Dinge, lassen sie aber meist ungenutzt liegen, weil sie Angst haben, sie an Fremde zu verleihen und sie beschädigt zurückzubekommen (Pain).
 *   **App-based Solution:** Wir bauen eine Web-App, die das lokale Ausleihen und Verleihen sicher und übersichtlich organisiert.
 *   **Die zwei Seiten der Plattform**:
     *   *Seite A (Die Verleiher):* Stellen ihre ungenutzten Werkzeuge ein. Als "Pain Reliever" gegen die Angst vor Beschädigung kann bei jedem Tool transparent eine verpflichtende Kaution hinterlegt werden, die Sicherheit schafft.
@@ -81,6 +81,7 @@ Dort klickt er auf ein Item und gelangt zur **Detailansicht (3)**, wo er eine An
 Der Verleiher sieht diese Anfrage unter **Anfragen (6)** und kann sie annehmen.  
 Neue Gegenstände werden über den **Create Screen (4)** erstellt.
 
+Dieser Ablauf zeigt die zentrale Interaktion zwischen Verleihern und Leihenden innerhalb der Plattform.
 
 
 ## 4. AI Directory (Generative AI Use Policy)
