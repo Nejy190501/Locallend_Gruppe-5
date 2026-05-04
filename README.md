@@ -27,26 +27,61 @@ Unsere App "LocalLend" ist eine klassische zweiseitige Plattform (Two-Sided Plat
     *   *Seite B (Die Leiher):* Suchen gezielt nach Werkzeugen, können diese unkompliziert anfragen und sparen sich das Geld für einen Neukauf (Gain Creator).
 
 ## 3. Target Scope (Visual Scoping)
+
 Um den Umfang unserer App visuell abzugrenzen, haben wir die Kern-Screens als Low-Resolution Prototypes (Scribbles) skizziert.
 
-*   **Scribble 1: Dashboard / Startseite**
-    *   Eine zentrale Suchleiste ganz oben. Darunter sieht man direkt Kacheln mit den Dingen, die gerade in der Community verfügbar sind.
-    *   `![Dashboard Skizze]`
+---
 
-*   **Scribble 2: Detailansicht & Action**
-    *   Wenn man auf ein Werkzeug klickt, sieht man das Foto, wem es gehört und wie hoch die Kaution ist. Darunter ein klarer "Jetzt anfragen"-Button.
-    *   `![Detailansicht Skizze]`
+### Scribble 1: Landing Page (Startseite)
+Eine zentrale Suchleiste und Übersicht verfügbarer Gegenstände.
 
-*   **Scribble 3: User Profile / Inventar**
-    *   Die eigene Übersicht aufgeteilt in: "Was biete ich gerade an?" und "Was habe ich aktuell von anderen ausgeliehen?".
-    *   `![Profil Skizze]`
+![Landing](docs/scribbles/landing.jpg)
 
-*   **Scribble 4: Upload-Screen**
-    *   Ein simples Formular für die Verleiher, um neue Gegenstände hochzuladen (Titel, Beschreibung, Foto, und das Feld für die Kaution).
-    *   `![Upload Skizze]`
+---
+
+### Scribble 2: Browse Items
+Liste aller verfügbaren Gegenstände mit Suchfunktion.
+
+![Browse](docs/scribbles/browse.jpg)
+
+---
+
+### Scribble 3: Detailansicht
+Detailseite eines Gegenstands mit Beschreibung, Besitzer und Kaution.
+
+![Detail](docs/scribbles/detail.jpg)
+
+---
+
+### Scribble 4: Gegenstand erstellen
+Formular zum Hochladen eines neuen Gegenstands.
+
+![Create](docs/scribbles/create.jpg)
+
+---
+
+### Scribble 5: Login / Registrierung
+Login- und Registrierungsseite mit Rollenwahl.
+
+![Login](docs/scribbles/login.jpg)
+
+---
+
+### Scribble 6: Anfragen verwalten
+Übersicht über eingehende Anfragen mit Annehmen/Ablehnen.
+
+![Requests](docs/scribbles/requests.jpg)
+
+---
 
 **Unser Happy Path (User Flow):**
-Ein Nutzer sucht auf dem **Dashboard (1)** nach einem Werkzeug, klickt auf die **Detailansicht (2)**, akzeptiert die Kaution und leiht es aus. Der Verleiher hat dieses Werkzeug zuvor über den **Upload-Screen (4)** eingestellt und kann den Status nun in seinem **User Profile (3)** überwachen.
+
+Ein Nutzer startet auf der **Landing Page (1)**, sucht nach einem Gegenstand und wechselt zur **Browse-Seite (2)**.  
+Dort klickt er auf ein Item und gelangt zur **Detailansicht (3)**, wo er eine Anfrage stellt.  
+Der Verleiher sieht diese Anfrage unter **Anfragen (6)** und kann sie annehmen.  
+Neue Gegenstände werden über den **Create Screen (4)** erstellt.
+
+
 
 ## 4. AI Directory (Generative AI Use Policy)
 Wir dokumentieren hier transparent unseren Einsatz von KI-Tools gemäß den Richtlinien des Moduls:
