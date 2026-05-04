@@ -46,41 +46,51 @@ Nutzer erhalten hier einen schnellen Einstieg und sehen direkt, was aktuell ausg
 Auf dieser Seite können Nutzer alle Gegenstände durchsuchen.  
 Jeder Eintrag enthält ein Bild, einen Titel und einen Button zur Detailansicht.
 
-![Browse](docs/scribbles/browse.jpg)
+<p align="center">
 
----
+  <img src="docs/scribbles/browse.jpg" width="500">
+
+</p>
 
 ### Scribble 3: Detailansicht
 Hier werden alle Informationen zu einem Gegenstand angezeigt (Beschreibung, Besitzer, Kaution).  
 Über den „Ausleihen“-Button kann eine Anfrage gestartet werden.
 
-![Detail](docs/scribbles/detail.jpg)
+<p align="center">
 
----
+  <img src="docs/scribbles/detail.jpg" width="500">
+
+</p>
 
 ### Scribble 4: Gegenstand erstellen
 Verleiher können hier neue Gegenstände hinzufügen.  
 Das Formular enthält Titel, Kategorie, Preis/Kaution und ein Bild.
 
-![Create](docs/scribbles/create.jpg)
+<p align="center">
 
----
+  <img src="docs/scribbles/create.jpg" width="500">
+
+</p>
 
 ### Scribble 5: Login / Registrierung
 Nutzer können sich anmelden oder registrieren und dabei ihre Rolle wählen (Borrower oder Lender).  
 Die Rolle bestimmt die verfügbaren Funktionen in der App.
 
-![Login](docs/scribbles/login.jpg)
+<p align="center">
 
----
+  <img src="docs/scribbles/login.jpg" width="500">
+
+</p>
 
 ### Scribble 6: Anfragen verwalten
 Verleiher sehen hier eingehende Anfragen und können diese annehmen oder ablehnen.  
 Damit wird entschieden, ob ein Gegenstand ausgeliehen wird.
 
-![Requests](docs/scribbles/requests.jpg)
+<p align="center">
 
----
+  <img src="docs/scribbles/requests.jpg" width="500">
+
+</p>
 
 **Happy Path (User Flow):**
 
