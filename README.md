@@ -38,7 +38,9 @@ Nutzer erhalten hier einen schnellen Einstieg und sehen direkt, was aktuell ausg
 
 ![Landing](docs/scribbles/landing.jpg)
 
----
+<p align="center">
+  <img src="docs/scribbles/landing.jpg" width="500">
+</p>---
 
 ### Scribble 2: Browse Items
 Auf dieser Seite können Nutzer alle Gegenstände durchsuchen.  
