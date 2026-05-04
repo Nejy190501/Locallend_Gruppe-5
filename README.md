@@ -28,58 +28,65 @@ Unsere App "LocalLend" ist eine klassische zweiseitige Plattform (Two-Sided Plat
 
 ## 3. Target Scope (Visual Scoping)
 
-Um den Umfang unserer App visuell abzugrenzen, haben wir die Kern-Screens als Low-Resolution Prototypes (Scribbles) skizziert.
+Um den Umfang unserer App visuell darzustellen, haben wir die wichtigsten Screens als Scribbles entworfen.
 
 ---
 
 ### Scribble 1: Landing Page (Startseite)
-Eine zentrale Suchleiste und Übersicht verfügbarer Gegenstände.
+Die Startseite bietet eine Suchleiste sowie eine Übersicht über verfügbare Gegenstände.  
+Nutzer erhalten hier einen schnellen Einstieg und sehen direkt, was aktuell ausgeliehen werden kann.
 
 ![Landing](docs/scribbles/landing.jpg)
 
 ---
 
 ### Scribble 2: Browse Items
-Liste aller verfügbaren Gegenstände mit Suchfunktion.
+Auf dieser Seite können Nutzer alle Gegenstände durchsuchen.  
+Jeder Eintrag enthält ein Bild, einen Titel und einen Button zur Detailansicht.
 
 ![Browse](docs/scribbles/browse.jpg)
 
 ---
 
 ### Scribble 3: Detailansicht
-Detailseite eines Gegenstands mit Beschreibung, Besitzer und Kaution.
+Hier werden alle Informationen zu einem Gegenstand angezeigt (Beschreibung, Besitzer, Kaution).  
+Über den „Ausleihen“-Button kann eine Anfrage gestartet werden.
 
 ![Detail](docs/scribbles/detail.jpg)
 
 ---
 
 ### Scribble 4: Gegenstand erstellen
-Formular zum Hochladen eines neuen Gegenstands.
+Verleiher können hier neue Gegenstände hinzufügen.  
+Das Formular enthält Titel, Kategorie, Preis/Kaution und ein Bild.
 
 ![Create](docs/scribbles/create.jpg)
 
 ---
 
 ### Scribble 5: Login / Registrierung
-Login- und Registrierungsseite mit Rollenwahl.
+Nutzer können sich anmelden oder registrieren und dabei ihre Rolle wählen (Borrower oder Lender).  
+Die Rolle bestimmt die verfügbaren Funktionen in der App.
 
 ![Login](docs/scribbles/login.jpg)
 
 ---
 
 ### Scribble 6: Anfragen verwalten
-Übersicht über eingehende Anfragen mit Annehmen/Ablehnen.
+Verleiher sehen hier eingehende Anfragen und können diese annehmen oder ablehnen.  
+Damit wird entschieden, ob ein Gegenstand ausgeliehen wird.
 
 ![Requests](docs/scribbles/requests.jpg)
 
 ---
 
-**Unser Happy Path (User Flow):**
+**Happy Path (User Flow):**
 
-Ein Nutzer startet auf der **Landing Page (1)**, sucht nach einem Gegenstand und wechselt zur **Browse-Seite (2)**.  
-Dort klickt er auf ein Item und gelangt zur **Detailansicht (3)**, wo er eine Anfrage stellt.  
-Der Verleiher sieht diese Anfrage unter **Anfragen (6)** und kann sie annehmen.  
-Neue Gegenstände werden über den **Create Screen (4)** erstellt.
+Ein Nutzer startet auf der Landing Page, sucht nach einem Gegenstand und wählt ein Item aus.  
+Auf der Detailseite stellt er eine Anfrage.  
+Der Verleiher sieht diese Anfrage und akzeptiert sie.  
+Der Gegenstand wird ausgeliehen.
+
 
 Dieser Ablauf zeigt die zentrale Interaktion zwischen Verleihern und Leihenden innerhalb der Plattform.
 
