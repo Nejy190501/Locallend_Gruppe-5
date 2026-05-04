@@ -104,7 +104,7 @@ Damit wird entschieden, ob ein Gegenstand ausgeliehen wird.
 8. Der Status des Gegenstands ändert sich von „verfügbar“ zu „ausgeliehen“.  
 9. Nach der Nutzung markiert der Leihende den Gegenstand als „zurückgegeben“.  
 10. Der Status des Gegenstands wird wieder auf „verfügbar“ gesetzt.
-11. 
+
 Dieser Ablauf bildet die zentrale Interaktion zwischen Verleihern und Leihenden ab und zeigt die vollständige Kernlogik der Plattform.
 
 
