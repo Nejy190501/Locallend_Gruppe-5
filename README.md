@@ -3,13 +3,14 @@
 ## 1. Team Composition
 *   **Team Name:** Group 5 - LocalLend
 *   **Repository Access:** Unser GitHub-Repository ist auf "public" gestellt und die Dokumentation ist über GitHub Pages erreichbar.
-*   **Contributors & Meta-Goals**
+*   **Contributors & Meta-Goals:**
+
     *   **Tuba Celik (Matrikelnummer: 77206594559)**
         *   *Target Grade:* 1.7
         *   *Personal Goal:* Das Flask-Routing richtig verstehen und das Backend für die Ausleih-Funktion eigenständig zum Laufen bringen.
     *   **Jean Yves Nkwane (Matrikelnummer: 77201393552)**
-        *   *Target Grade:* 1.7
-        *   *Personal Goal:* Ein sauberes Frontend mit HTML und Bootstrap bauen, komplett ohne verbotene JavaScript-Hacks.
+        *   *Target Grade:* 1.0
+        *   *Personal Goal:* Ich erziele es, ein sauberes Frontend mit HTML und Bootstrap zu bauen, komplett ohne verbotene JavaScript-Hacks.
     *   **Wendy Sharonia Lontsi Doumtsop (Matrikelnummer: 77209106458)**
         *   *Target Grade:* 1.7
         *   *Personal Goal:* Die SQLite-Datenbank logisch aufsetzen und sicherstellen, dass sie reibungslos mit Flask interagiert.
@@ -20,8 +21,12 @@
 ## 2. Value Proposition
 Unsere App "LocalLend" ist eine klassische zweiseitige Plattform (Two-Sided Platform) für Tool-Sharing auf dem Campus und in der Nachbarschaft.
 
-*   **Target User & Problem:** Wir richten uns primär an Studierende und Anwohner. Das Problem: Für einmalige Projekte (z.B. Umzug, kleine Reparaturen) werden teure Werkzeuge benötigt (z.B. Schlagbohrmaschine). Ein Neukauf ist für Studierende zu teuer (Pain). Andere besitzen diese Dinge, lassen sie aber meist ungenutzt liegen, weil sie Angst haben, sie an Fremde zu verleihen und sie beschädigt zurückzubekommen (Pain).
+*   **Target User & Problem:** Wir richten uns primär an Studierende und Anwohner.
+
+*   **Das Problem:** Für einmalige Projekte (z.B. Umzug, kleine Reparaturen) werden teure Werkzeuge benötigt (z.B. Schlagbohrmaschine). Ein Neukauf ist für Studierende zu teuer (Pain). Andere besitzen diese Dinge, lassen sie aber meist ungenutzt liegen, weil sie Angst haben, sie an Fremde zu verleihen und sie beschädigt zurückzubekommen (Pain).
+
 *   **App-based Solution:** Wir bauen eine Web-App, die das lokale Ausleihen und Verleihen sicher und übersichtlich organisiert.
+
 *   **Die zwei Seiten der Plattform**:
     *   *Seite A (Die Verleiher):* Stellen ihre ungenutzten Werkzeuge ein. Als "Pain Reliever" gegen die Angst vor Beschädigung kann bei jedem Tool transparent eine verpflichtende Kaution hinterlegt werden, die Sicherheit schafft.
     *   *Seite B (Die Leiher):* Suchen gezielt nach Werkzeugen, können diese unkompliziert anfragen und sparen sich das Geld für einen Neukauf (Gain Creator).
@@ -106,9 +111,6 @@ Damit wird entschieden, ob ein Gegenstand ausgeliehen wird.
 10. Der Status des Gegenstands wird wieder auf „verfügbar“ gesetzt.
 
 Dieser Ablauf bildet die zentrale Interaktion zwischen Verleihern und Leihenden ab und zeigt die vollständige Kernlogik der Plattform.
-
-
-
 
 ## 4. AI Directory (Generative AI Use Policy)
 Wir dokumentieren hier transparent unseren Einsatz von KI-Tools gemäß den Richtlinien des Moduls:
