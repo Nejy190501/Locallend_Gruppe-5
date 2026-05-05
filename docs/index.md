@@ -5,7 +5,7 @@
 **Team Name:** Gruppe 5 – LocalLend  
 
 **Repository Access:**  
-Unser GitHub-Repository ist öffentlich und kann vom Prüfer per `git pull` abgerufen werden.
+Unser GitHub-Repository ist auf "public" gestellt und die Dokumentation ist über GitHub Pages erreichbar.
 
 **Git Repository:**  
 https://github.com/Nejy190501/Locallend_Gruppe-5
