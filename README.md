@@ -7,16 +7,16 @@
 
     *   **Tuba Celik (Matrikelnummer: 77206594559)**
         *   *Target Grade:* 1.7
-        *   *Personal Goal:* Das Flask-Routing richtig verstehen und das Backend für die Ausleih-Funktion eigenständig zum Laufen bringen.
+        *   *Personal Goal:*  Verstehen, wie man mit Flask eine strukturierte Webanwendung entwickelt und Backend-Logik sauber implementiert. 
     *   **Jean Yves Nkwane (Matrikelnummer: 77201393552)**
         *   *Target Grade:* 1.0
-        *   *Personal Goal:* Ich erziele es, ein sauberes Frontend mit HTML und Bootstrap zu bauen, komplett ohne verbotene JavaScript-Hacks.
+        *   *Personal Goal:*  Verbesserung der Fähigkeiten in HTML, CSS und der Arbeit mit Template-Engines (Jinja2) zur Gestaltung von Benutzeroberflächen.
     *   **Wendy Sharonia Lontsi Doumtsop (Matrikelnummer: 77209106458)**
         *   *Target Grade:* 1.7
-        *   *Personal Goal:* Die SQLite-Datenbank logisch aufsetzen und sicherstellen, dass sie reibungslos mit Flask interagiert.
+        *   *Personal Goal:* Erlernen von relationalem Datenbankdesign und der Integration von SQLite in Webanwendungen.
     *   **Maryam Joumma (Matrikelnummer: 77207472992)**
         *   *Target Grade:* 1.7
-        *   *Personal Goal:* Den Git-Workflow strukturieren und dafür sorgen, dass unsere Pull Requests im Team ohne Konflikte funktionieren.
+        *   *Personal Goal:*  Verbesserung von Git-Workflows und strukturierter Projektorganisation in Teamprojekten. Verwaltung des Repositories, Dokumentation sowie Einrichtung und Pflege von GitHub Pages.
 
 ## 2. Value Proposition
 Unsere App "LocalLend" ist eine klassische zweiseitige Plattform (Two-Sided Platform) für Tool-Sharing auf dem Campus und in der Nachbarschaft.
